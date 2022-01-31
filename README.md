@@ -1,2 +1,2 @@
 # DDoS
-This Is Tool DDoS For Website ! Don't Abuse It
+This Is Tool DDoS ! Don't Abuse It
